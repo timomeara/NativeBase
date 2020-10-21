@@ -72,7 +72,7 @@
     "react-test-renderer": "16.4.1"
   },
   "gitHead": "5bbeacc403ba97622703699132c55d8359344004",
-  "homepage": "https://github.com/GeekyAnts/NativeBase#readme",
+  "homepage": "https://github.com/timomeara/NativeBase#readme",
   "main": "dist/src/index.js",
   "typings": "./index.d.ts",
   "optionalDependencies": {},
@@ -80,15 +80,10 @@
     "react": ">=16.4.1",
     "react-native": ">=0.56.0"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint && pretty-quick --staged --pattern \"src/**/*.{js, json}\""
-    }
-  },
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeekyAnts/NativeBase.git"
+    "url": "git+https://github.com/timomeara/NativeBase.git"
   },
   "collective": {
     "type": "opencollective",
